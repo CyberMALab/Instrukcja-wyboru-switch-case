@@ -24,7 +24,7 @@ int main() {
 		printf("2. Opowiedz zart.\n");
 		printf("3. Pozegnaj sie.\n");
 		printf("Wybierz opcje: ");
-		fflush(stdin); /* czyszczenie bufora stdin */
+		fflush(stdin); /* zachowanie zależne od biblioteki: może opróżnić stdin */
 		scanf(" %d",&wybor);
 		switch(wybor)
 		{
