@@ -127,6 +127,8 @@ _Przykład działania_
 >
 >Rycerz może: czcic Króla, wchodzić na dziedziniec zamkowy codziennie, wchodzic do zamku codziennie oraz rekrutowac giermkow.
 
+4. Wczytaj numer miesiąca 1–12 i wypisz numer kwartału. Zgrupuj etykiety `case` dla trzech miesięcy; dla innych liczb wypisz komunikat o błędzie.
+
 ***
 [Poprzednia część](https://github.com/CyberMALab/Petle.git) | [Spis treści](https://github.com/CyberMALab/Wprowadzenie-do-programowania-w-j-zyku-ANSI-C.git) | [Następna część](https://github.com/CyberMALab/Wiecej-o-typach-zmiennych-i-nie-tylko.git)
 ***
