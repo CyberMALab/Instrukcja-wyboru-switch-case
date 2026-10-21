@@ -113,9 +113,9 @@ Na początku zaleca się jednak korzystać z instrukcji _switch case break_, ale
 
 ## Zadania do samodzielnego wykonania:
 
-1. Stwórz kalkulator, w którym użytkownik podaje 2 liczby, następnie podaje znak działania jakie chce wykonać (+, -, \*, /, %). Wykorzystaj instrukcję _switch case_. Program wykonuje działanie i wyświetla wynik.
-2. Stwórz kalkulator 2 liczb z menu. W opcjach menu zawrzyj: zmianę pierwszej liczby, zmianę drugiej liczby, wybór działania do wykonania (+, -, \*, /, %) oraz zakończenie programu. Po każdorazowej zmianie danych program oblicza zadane działanie i wyświetla je powyżej menu, oraz daje możliwość dalszego korzystania z programu.
-3. Przy pomocy instrukcji _switch case_ stwórz program, który wyświetla uprawnienia członków królestwa. Dodatkowo każdy z członków królestwa może również wykonywać rzeczy przeznaczone dla niższego rangą mieszkańca.
+1. Zaimplementuj kalkulator, w którym użytkownik podaje 2 liczby, następnie podaje znak działania jakie chce wykonać (+, -, \*, /, %). Wykorzystaj instrukcję _switch case_. Program wykonuje działanie i wyświetla wynik.
+2. Zaimplementuj kalkulator 2 liczb z menu. W opcjach menu zawrzyj: zmianę pierwszej liczby, zmianę drugiej liczby, wybór działania do wykonania (+, -, \*, /, %) oraz zakończenie programu. Po każdorazowej zmianie danych program oblicza zadane działanie i wyświetla je powyżej menu, oraz daje możliwość dalszego korzystania z programu.
+3. Przy pomocy instrukcji _switch case_ utwórz program, który wyświetla uprawnienia członków królestwa. Dodatkowo każdy z członków królestwa może również wykonywać rzeczy przeznaczone dla niższego rangą mieszkańca.
     1. Poddany - może czcić Króla,
     2. Giermek - może wchodzić na dziedziniec zamkowy codziennie,
     3. Rycerz - może wchodzić do zamku codziennie oraz rekrutować giermków,
